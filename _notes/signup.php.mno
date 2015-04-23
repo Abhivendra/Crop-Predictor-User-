@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_signup" value="name:First_Name;datatype:string,name:Last_Name;datatype:string,name:User_name;datatype:string,name:Emai_Id;datatype:string,name:Password;datatype:string" />
+</info>

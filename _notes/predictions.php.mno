@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:sum(estimated_production);datatype:real" />
+	<infoitem key="UD_Present_Sum_where_cid" value="name:sum(estimated_production);datatype:real" />
+	<infoitem key="UD_sum_prev" value="name:sum(pevious_production);datatype:real" />
+	<infoitem key="UD_get_crop" value="name:Crop_Name;datatype:string" />
+	<infoitem key="UD_crop1" value="name:Crop_Name;datatype:string" />
+	<infoitem key="UD_crp2" value="name:Crop_Name;datatype:string" />
+	<infoitem key="UD_Crop3" value="name:Crop_Name;datatype:string" />
+	<infoitem key="UD_crop4" value="name:Crop_Name;datatype:string" />
+	<infoitem key="UD_crop5" value="name:Crop_Name;datatype:string" />
+</info>
